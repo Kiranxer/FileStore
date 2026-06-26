@@ -14,9 +14,9 @@ SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+TOKEN = "8834179148:AAH1lFOOK9M-yK9uz1YUX-aLQ59pyvmP4As"
+API_ID = "32803246"
+API_HASH = "87759cd9acc932bc70413bbb1f65b259"
 WORKERS = 5
 
 DB_URI = "mongodb"
